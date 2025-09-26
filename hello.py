@@ -1,3 +1,5 @@
 print("Hello Git!")
 name = input("What is your name? ")
 print("Hello " + name + "!")
+movie = input("What is your favorite movie? ")
+print(movie + " is a great movie!")
