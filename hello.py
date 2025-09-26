@@ -1,3 +1,5 @@
 print("Hello World!")
 name = input("What is your name?")
 print("Hello " + name + "!")
+food = input("What would you like to eat today?")
+print("Great! I will get you some " + food + "!")
